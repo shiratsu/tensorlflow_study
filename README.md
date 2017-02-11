@@ -10,3 +10,6 @@ Rankは「テンソルの階数」、Shapeは「テンソルの形」を言い�
 
 ### 参考
 http://www.buildinsider.net/small/booktensorflow/0104#1-4-1
+=======
+## 参考
+http://www.buildinsider.net/small/booktensorflow
